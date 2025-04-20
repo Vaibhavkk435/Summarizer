@@ -1,11 +1,10 @@
-# Summarizer
 <div align="center">
   
 
   <h3 align="center">An AI Article Summarizer Website</h3>
 
    <div align="center">
-     Built by Vaibhav Katiyar, BTech student at Raj Kumar Goel Institute of Technology.
+     Built by Kartikeya Katiyar, BTech student at IITK.
     </div>
 </div>
 
