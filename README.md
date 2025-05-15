@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/kkartikeya22/summarizer
+git clone https://github.com/Vaibhavkk435/summarizer
 cd summarizer
 ```
 
